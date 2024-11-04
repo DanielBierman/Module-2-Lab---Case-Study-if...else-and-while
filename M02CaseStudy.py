@@ -1,3 +1,8 @@
+# Daniel Bierman
+# M02CaseStudy.py
+# This program will ask the user to input last name, first name, and GPA of a student which will determine if the
+# student has made the Dean's list or Honor Roll. 
+
 last_name = ""
 first_name = ""
 gpa = 0.0
